@@ -378,7 +378,7 @@ local Tower4Enabled = Config.Tower4Enabled
 
 local Tower5Enabled = Config.Tower5Enabled
 --//======================================================--// DELAYS--//======================================================
-local DepthsDelay = 0.8
+local DepthsDelay = 1
 
 local BattleTowerDelay = 1
 
